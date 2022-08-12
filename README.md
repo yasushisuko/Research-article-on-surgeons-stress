@@ -17,4 +17,4 @@ The author of these files: Pasi Kytölä (Faculty of Information Technology and 
 
 In our research article, this data set is cited as follows:
 
-Kytölä, P. (2022). LME analysis for the psychological and physiological effect of natural sounds on surgeons' stress recovery [Data set]. GitHub. https://github.com/yasushisuko/Research-article-on-surgeons-stress/edit/main/
+Kytölä, P. (2022). LME analysis for the psychological and physiological effect of natural sounds on surgeons' stress recovery [Data set]. GitHub. https://github.com/yasushisuko/Research-article-on-surgeons-stress
