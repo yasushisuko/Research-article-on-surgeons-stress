@@ -1,0 +1,76 @@
+Surgeon:
+E1, E2, R1, R2
+
+SC:
+0=Resident
+1=Expert
+
+POMS2 T-scores for 7 sub-scales and the total score (TMD):
+
+POMS2_AH="Anger-Hostility"
+POMS2_CB="Confusion-Bewilderment"
+POMS2_DD="Depression-Dejection"
+POMS2_FI="Fatigue-Inertia"
+POMS2_TA="Tension-Anxiety"
+POMS2_VA="Vigor-Activity"
+POMS2_F="Friendliness"
+POMS2_TMD="Total Mood Disturbance"
+
+Date:
+Date of surgical operation, questionnaire filling in three stages, measuring skin conductance level and resting
+
+NS:
+0=Without nature's sounds
+1=With nature's sounds
+
+Stage:
+0=Before resting
+1=After resting
+
+
+Id:
+An event containing surgical operation, questionnaire filling in three stages, measuring skin conductance level and resting
+
+Surgeon;SC;POMS2_AH;POMS2_CB;POMS2_DD;POMS2_FI;POMS2_TA;POMS2_VA;POMS2_F;POMS2_TMD;Date;NS;Stage;Id
+E2;1;42;44;44;51;59;53;56;47;Oct 9;0;0;2
+E2;1;38;39;41;45;44;55;64;40;Oct 9;0;1;2
+E2;1;52;46;48;51;59;39;45;54;Oct 17;1;0;4
+E2;1;38;41;41;40;42;53;53;39;Oct 17;1;1;4
+E1;1;54;51;53;62;54;51;48;55;Oct 18;1;0;5
+E1;1;42;48;50;55;44;55;53;47;Oct 18;1;1;5
+R2;0;40;46;53;55;59;55;53;50;Nov 12;0;0;6
+R2;0;40;46;53;51;42;55;61;45;Nov 12;0;1;6
+R2;0;40;56;69;55;63;55;53;56;Nov 14;1;0;7
+R2;0;38;48;55;49;49;51;56;48;Nov 14;1;1;7
+R2;0;45;68;73;62;61;41;45;64;Nov 15;0;0;8
+R2;0;47;66;73;60;61;41;50;64;Nov 15;0;1;8
+E1;1;47;48;44;60;54;55;50;50;Nov 19;1;0;9
+E1;1;42;44;41;45;44;55;48;42;Nov 19;1;1;9
+R2;0;47;56;57;53;61;48;53;56;Nov 26;1;0;10
+R2;0;45;53;55;47;54;51;50;51;Nov 26;1;1;10
+E2;1;38;39;41;45;46;44;45;43;Nov 27;0;0;11
+E2;1;38;44;41;42;44;44;39;43;Nov 27;0;1;11
+E2;1;38;41;41;49;44;37;39;45;Nov 28;1;0;12
+E2;1;38;39;41;38;37;44;39;39;Nov 28;1;1;12
+R2;0;40;56;55;53;51;51;56;51;Dec 4;1;0;13
+R2;0;38;48;53;49;42;51;50;46;Dec 4;1;1;13
+E2;1;38;39;41;38;37;39;39;40;Dec 5;1;0;14
+E2;1;38;39;41;36;34;48;42;37;Dec 5;1;1;14
+R1;0;38;39;41;40;37;44;37;40;Dec 6;0;0;15
+R1;0;38;39;41;40;34;32;26;42;Dec 6;0;1;15
+R1;0;38;46;41;58;51;44;45;48;Dec 11;1;0;16
+R1;0;38;39;41;45;34;44;37;40;Dec 11;1;1;16
+R1;0;38;39;41;58;44;48;45;44;Dec 20;0;0;17
+R1;0;42;46;41;49;42;39;39;46;Dec 20;0;1;17
+R2;0;40;58;66;64;56;46;48;59;Jan 14;1;0;18
+R2;0;40;56;64;58;54;48;53;55;Jan 14;1;1;18
+R1;0;38;48;44;53;63;53;45;49;Jan 21;1;0;19
+R1;0;38;39;41;38;37;60;48;36;Jan 21;1;1;19
+E1;1;45;48;46;49;46;44;45;48;Jan 22;0;0;20
+E1;1;47;48;46;51;44;41;39;49;Jan 22;0;1;20
+E1;1;54;51;48;60;51;46;42;54;Jan 28;1;0;21
+E1;1;47;51;48;51;46;55;45;48;Jan 28;1;1;21
+E1;1;49;48;41;47;46;46;42;47;Jan 31;1;0;22
+E1;1;49;46;44;47;44;46;42;47;Jan 31;1;1;22
+R1;0;38;46;41;58;49;46;48;47;Feb 5;1;0;23
+R1;0;38;41;41;40;34;53;34;38;Feb 5;1;1;23

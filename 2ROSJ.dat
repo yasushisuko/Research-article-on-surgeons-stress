@@ -1,0 +1,103 @@
+Surgeon:
+E1, E2, R1, R2
+
+SC:
+0=Resident
+1=Expert
+
+ROS-J-Total:
+Sum of six ordinal 7-scale Likert variables.
+
+ROS-J-Q1 -> ROS-J-Q6, six ordinal 7-scale Likert variables, from 1 (strongly disagree) to 7 (strongly agree):
+ROS-J-Q1="I feel calmer after being here"
+ROS-J-Q2="My concentration and alertness clearly increase here"
+ROS-J-Q3="I get new enthusiasm and energy for my everyday routines from here"
+ROS-J-Q4="After visiting this place I always feel restored and relaxed"
+ROS-J-Q5="I can forget everyday worries here"
+ROS-J-Q6="Visiting here is a way of clearing and clarifying my thoughts"
+
+Date:
+Date of surgical operation, questionnaire filling in three stages, measuring skin conductance level and resting
+
+NS:
+0=Without nature's sounds
+1=With nature's sounds
+
+Stage:
+1=Before surgery
+2=After surgery
+3=After resting
+
+Id:
+An event containing surgical operation, questionnaire filling in three stages, measuring skin conductance level and resting
+
+Surgeon;SC;ROS-J-Total;ROS-J-Q1;ROS-J-Q2;ROS-J-Q3;ROS-J-Q4;ROS-J-Q5;ROS-J-Q6;Date;NS;Stage;Id
+E1;1;26;3;6;5;4;3;5;Oct 8;0;1;1
+E1;1;24;4;6;5;3;3;3;Oct 8;0;2;1
+E1;1;21;4;3;3;4;4;3;Oct 8;0;3;1
+E2;1;28;5;6;4;4;3;6;Oct 9;0;1;2
+E2;1;20;2;6;2;2;5;3;Oct 9;0;2;2
+E2;1;33;6;5;5;6;5;6;Oct 9;0;3;2
+E2;1;31;5;5;4;5;6;6;Oct 16;1;1;3
+E2;1;26;4;6;4;4;5;3;Oct 16;1;2;3
+E2;1;31;5;5;5;5;6;5;Oct 16;1;3;3
+E2;1;29;5;6;5;3;5;5;Oct 17;1;1;4
+E2;1;17;3;3;3;2;3;3;Oct 17;1;2;4
+E2;1;27;4;4;4;5;5;5;Oct 17;1;3;4
+E1;1;24;2;5;5;3;4;5;Oct 18;1;1;5
+E1;1;20;2;5;5;2;3;3;Oct 18;1;2;5
+E1;1;30;5;5;5;5;5;5;Oct 18;1;3;5
+R2;0;16;3;3;3;2;2;3;Nov 12;0;1;6
+R2;0;27;5;4;5;5;4;4;Nov 12;0;2;6
+R2;0;28;5;5;5;4;5;4;Nov 12;0;3;6
+R2;0;18;1;3;3;2;2;7;Nov 14;1;1;7
+R2;0;22;2;2;5;4;3;6;Nov 14;1;2;7
+R2;0;28;5;5;5;5;3;5;Nov 14;1;3;7
+R2;0;22;3;4;5;4;3;3;Nov 15;0;1;8
+R2;0;12;2;2;2;2;2;2;Nov 15;0;2;8
+R2;0;16;3;3;3;2;2;3;Nov 15;0;3;8
+E1;1;20;2;5;4;2;3;4;Nov 19;1;1;9
+E1;1;20;1;5;5;2;4;3;Nov 19;1;2;9
+E1;1;30;5;5;5;5;5;5;Nov 19;1;3;9
+R2;0;25;5;5;5;3;3;4;Nov 26;1;1;10
+R2;0;21;3;3;5;4;3;3;Nov 26;1;2;10
+R2;0;28;5;5;5;4;4;5;Nov 26;1;3;10
+E2;1;30;5;5;5;5;5;5;Nov 27;0;1;11
+E2;1;20;3;4;3;3;4;3;Nov 27;0;2;11
+E2;1;20;4;4;3;3;3;3;Nov 27;0;3;11
+E2;1;24;3;5;4;3;5;4;Nov 28;1;1;12
+E2;1;20;3;4;3;3;4;3;Nov 28;1;2;12
+E2;1;26;4;4;4;4;5;5;Nov 28;1;3;12
+R2;0;26;5;5;5;4;3;4;Dec 4;1;1;13
+R2;0;25;4;5;5;4;3;4;Dec 4;1;2;13
+R2;0;28;5;5;5;5;3;5;Dec 4;1;3;13
+E2;1;20;4;3;3;3;4;3;Dec 5;1;1;14
+E2;1;20;3;3;3;3;4;4;Dec 5;1;2;14
+E2;1;26;4;4;5;5;4;4;Dec 5;1;3;14
+R1;0;27;5;5;5;4;4;4;Dec 6;0;1;15
+R1;0;28;5;5;5;4;4;5;Dec 6;0;2;15
+R1;0;26;5;5;4;4;4;4;Dec 6;0;3;15
+R1;0;15;3;3;2;2;3;2;Dec 11;1;1;16
+R1;0;17;3;4;2;2;3;3;Dec 11;1;2;16
+R1;0;30;5;5;5;5;5;5;Dec 11;1;3;16
+R1;0;23;4;5;5;3;4;2;Dec 20;0;1;17
+R1;0;21;4;5;3;2;3;4;Dec 20;0;2;17
+R1;0;18;3;4;3;2;3;3;Dec 20;0;3;17
+R2;0;19;2;4;4;2;3;4;Jan 14;1;1;18
+R2;0;26;4;4;5;5;4;4;Jan 14;1;2;18
+R2;0;26;5;5;5;4;3;4;Jan 14;1;3;18
+R1;0;18;2;4;3;3;2;4;Jan 21;1;1;19
+R1;0;25;4;4;4;5;4;4;Jan 21;1;2;19
+R1;0;34;5;6;6;6;5;6;Jan 21;1;3;19
+E1;1;19;2;4;5;3;2;3;Jan 22;0;1;20
+E1;1;28;5;5;5;4;4;5;Jan 22;0;2;20
+E1;1;20;4;3;3;4;3;3;Jan 22;0;3;20
+E1;1;23;3;5;5;3;3;4;Jan 28;1;1;21
+E1;1;22;2;5;5;2;5;3;Jan 28;1;2;21
+E1;1;30;5;5;5;5;5;5;Jan 28;1;3;21
+E1;1;22;3;4;5;3;3;4;Jan 31;1;1;22
+E1;1;22;3;3;3;5;4;4;Jan 31;1;2;22
+E1;1;27;5;4;4;5;4;5;Jan 31;1;3;22
+R1;0;20;3;3;4;3;4;3;Feb 5;1;1;23
+R1;0;17;3;4;2;2;3;3;Feb 5;1;2;23
+R1;0;27;4;5;4;5;4;5;Feb 5;1;3;23
