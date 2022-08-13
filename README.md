@@ -14,7 +14,9 @@ This repository contains 5 files (3 DAT files and 2 R file):
 - LMEanalysis2.R (for the analysis targeting the questionnaires' sub-scales described in Appendix)
 
 The authors of these files: 
+
 Pasi Kytölä (Faculty of Information Technology and Communication Science/Statistics, Tampere University, Finland)
+
 Yasushi Suko (Faculty of Social Sciences/Psychology, Tampere University, Finland)
 
 Author contributions:
