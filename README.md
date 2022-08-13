@@ -19,8 +19,9 @@ The authors of these files:
 - Yasushi Suko (Faculty of Social Sciences/Psychology, Tampere University, Finland)
 
 Author contributions:
-Pasi Kytölä: Reshaped DAT files for analysis and developed R files.
-Yasushi Suko: Collected the raw data and sorted it for DAT files.
+
+- Pasi Kytölä: Reshaped DAT files for analysis and developed R files.
+- Yasushi Suko: Collected the raw data and sorted it for DAT files.
 
 In our research article, this data set is cited as follows:
 
